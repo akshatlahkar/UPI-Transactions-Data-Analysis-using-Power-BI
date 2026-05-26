@@ -175,12 +175,11 @@ across:
 
 # Snapshot of Dashboard (Power BI Desktop)
 
-![Dashboard_1](ADD_IMAGE_LINK_HERE)
+![Dashboard_1](Screenshot%20(213).png)
 
-![Dashboard_2](ADD_IMAGE_LINK_HERE)
+![Dashboard_2](Screenshot%20(212).png)
 
-![Dashboard_3](ADD_IMAGE_LINK_HERE)
-
+![Dashboard_3](Screenshot%20(211).png)
 ---
 
 # Insights
